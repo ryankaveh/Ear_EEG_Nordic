@@ -1,0 +1,3 @@
+GNU_INSTALL_ROOT := C:/gnuarmemb/bin/
+GNU_VERSION := 7.3.1
+GNU_PREFIX := arm-none-eabi

@@ -1,1 +1,1 @@
-# Ear_EEG_Nordic
+readme
