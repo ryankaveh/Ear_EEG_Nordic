@@ -30,11 +30,10 @@ This git repo has all the programming and config files neccessary for altering, 
 | reset             | reset the bluetooth link (in case pyserial has crashed and locked us out) |
 
 ## System Summary and Breakdown
-The firmwares in this repository are meant to support the Ear EEG2 Wireless Readout.
+The firmwares in this repository are meant to support the Ear EEG2 Wireless Readout. Data recorded with the Ear EEG 2 IC is queried by an onboard NRF52840 (peripheral Nordic) via SPI. The peripheral Nordic then sends a bluetooth notification with one or more SPI packets to the NRF52 Dongle (base station). The base station then places the received Ear EEG packets onto the USB bus such that the host computer can plot and store the data on disk.
 
 ![system](./images/system_diagram.png?raw=true "system block diagram")
 
-![system_block_diagram](https://https://github.com/ryankaveh/Ear_EEG_Nordic//images/system_diagram.png?raw=true)
 
 ### Peripheral Firmware
 
