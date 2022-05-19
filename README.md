@@ -32,6 +32,8 @@ This git repo has all the programming and config files neccessary for altering, 
 ## System Summary and Breakdown
 The firmwares in this repository are meant to support the Ear EEG2 Wireless Readout.
 
+![system](./images/system_diagram.png?raw=true "system block diagram")
+
 ![system_block_diagram](https://https://github.com/ryankaveh/Ear_EEG_Nordic//images/system_diagram.png?raw=true)
 
 ### Peripheral Firmware
