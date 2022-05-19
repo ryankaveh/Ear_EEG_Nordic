@@ -29,7 +29,10 @@ This git repo has all the programming and config files neccessary for altering, 
 | startup           | Begin startup routine that writes instructions stored in memory to IC     |
 | reset             | reset the bluetooth link (in case pyserial has crashed and locked us out) |
 
-## Peripheral Firmware
+## System Summary and Breakdown
+The firmwares in this repository are meant to support the Ear EEG2 Wireless Readout.
 
-## Base Station Firmware
+### Peripheral Firmware
+
+### Base Station Firmware
 
