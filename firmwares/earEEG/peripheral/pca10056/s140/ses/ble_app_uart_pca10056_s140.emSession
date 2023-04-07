@@ -63,8 +63,8 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="179" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="148" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="35" y="176" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="148" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="11371" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="11323" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ble_app_uart_pca10056_s140" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="/Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/firmwares/earEEG/peripheral_v6/main.c&#xa;/Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/firmwares/earEEG/peripheral/main.c&#xa;C:/Users/Ryan/ncs/v1.7.0/toolchain/segger_embedded_studio/source/thumb_crt0.s&#xa;" fileDialogInitialDirectory="/Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/firmwares/earEEG/peripheral" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ble_app_uart_pca10056_s140" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="/Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/firmwares/earEEG/peripheral_v6/main.c&#xa;/Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/firmwares/earEEG/peripheral/main.c&#xa;C:/Users/Ryan/ncs/v1.7.0/toolchain/segger_embedded_studio/source/thumb_crt0.s&#xa;" fileDialogInitialDirectory="/Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/firmwares/earEEG/peripheral" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
