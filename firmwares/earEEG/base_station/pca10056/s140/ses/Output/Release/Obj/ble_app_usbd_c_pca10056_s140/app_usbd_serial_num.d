@@ -1,18 +1,18 @@
 Output/Release/Obj/ble_app_usbd_c_pca10056_s140/app_usbd_serial_num.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_serial_num.c \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_serial_num.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/inttypes.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_serial_num.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_serial_num.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/inttypes.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd.h \
  ../../../../../../integration/nrfx/legacy/nrf_drv_usbd.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52840.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -60,12 +60,12 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/app_usbd_serial_num.o: \
  ../../../../../../modules/nrfx/hal/nrf_usbd.h \
  ../../../../../../integration/nrfx/legacy/nrf_drv_usbd_errata.h \
  ../../../../../../modules/nrfx/drivers/include/../src/nrfx_usbd_errata.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_types.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_request.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_types.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_request.h \
  ../../../../../../components/libraries/util/sdk_common.h \
  ../../../../../../components/libraries/util/sdk_os.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_descriptor.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_langid.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/usbd/app_usbd_class_base.h
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_descriptor.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_langid.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/usbd/app_usbd_class_base.h

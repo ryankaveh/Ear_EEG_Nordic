@@ -1,10 +1,10 @@
 Output/Release/Obj/ble_app_uart_pca10056_s140/ble_advdata.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/ble/common/ble_advdata.c \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/ble/common/ble_advdata.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/common/ble_advdata.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/common/ble_advdata.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
  ../../../../../../components/softdevice/s140/headers/ble.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
@@ -38,13 +38,13 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/ble_advdata.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
  ../../../../../../components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/softdevice/s140/headers/ble_gap.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/ble/common/ble_srv_common.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/common/ble_srv_common.h \
  ../../../../../../components/softdevice/s140/headers/ble_types.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/softdevice/s140/headers/ble_gatt.h

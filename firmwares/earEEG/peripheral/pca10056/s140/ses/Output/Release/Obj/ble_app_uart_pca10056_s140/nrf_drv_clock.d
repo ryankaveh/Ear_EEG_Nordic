@@ -1,15 +1,15 @@
 Output/Release/Obj/ble_app_uart_pca10056_s140/nrf_drv_clock.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/integration/nrfx/legacy/nrf_drv_clock.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/integration/nrfx/legacy/nrf_drv_clock.c \
  ../../../../../../components/libraries/util/nordic_common.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/integration/nrfx/legacy/nrf_drv_clock.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/integration/nrfx/legacy/nrf_drv_clock.h \
  ../../../../../../modules/nrfx/drivers/include/nrfx_clock.h \
  ../../../../../../modules/nrfx/nrfx.h \
  ../../../../../../integration/nrfx/nrfx_config.h ../config/sdk_config.h \
  ../../../../../../modules/nrfx/drivers/nrfx_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52840.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -43,7 +43,7 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/nrf_drv_clock.o: \
  ../../../../../../components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/util/app_error.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
@@ -60,7 +60,7 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/nrf_drv_clock.o: \
  ../../../../../../components/libraries/experimental_section_vars/nrf_section.h \
  ../../../../../../components/softdevice/common/nrf_sdh_soc.h \
  ../../../../../../components/libraries/util/sdk_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
  ../../../../../../components/libraries/util/sdk_os.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/libraries/util/sdk_macros.h \

@@ -1,10 +1,10 @@
 Output/Release/Obj/ble_app_usbd_c_pca10056_s140/ble_nus_c.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/ble/ble_services/ble_nus_c/ble_nus_c.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/ble_services/ble_nus_c/ble_nus_c.c \
  ../../../../../../components/libraries/util/sdk_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
@@ -12,7 +12,7 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/ble_nus_c.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52840.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -30,7 +30,7 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/ble_nus_c.o: \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdlib.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdlib.h \
  ../../../../../../components/softdevice/s140/headers/ble.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
@@ -43,7 +43,7 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/ble_nus_c.o: \
  ../../../../../../components/softdevice/s140/headers/ble_gatt.h \
  ../../../../../../components/softdevice/s140/headers/ble_gattc.h \
  ../../../../../../components/softdevice/s140/headers/ble_gatts.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/ble/ble_services/ble_nus_c/ble_nus_c.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/ble_services/ble_nus_c/ble_nus_c.h \
  ../../../../../../components/softdevice/s140/headers/ble_gatt.h \
  ../../../../../../components/ble/ble_db_discovery/ble_db_discovery.h \
  ../../../../../../components/softdevice/s140/headers/ble_gattc.h \
@@ -57,7 +57,7 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/ble_nus_c.o: \
  ../../../../../../components/softdevice/s140/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s140/headers/nrf_nvic.h \
  ../../../../../../components/libraries/util/app_error.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/libraries/log/nrf_log_instance.h \

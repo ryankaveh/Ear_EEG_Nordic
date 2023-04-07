@@ -165,7 +165,7 @@ static uint8_t        ble_tx_buff_t[] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
                                    0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 static uint8_t        test_counter = 0;
 static uint8_t        toggle = 0;
-static uint32_t       timer_ticks = 10; // 8 ticks from a 32kHz clock should give me a transaction every ~500us
+static uint32_t       timer_ticks = 14; // 8 ticks from a 32kHz clock should give me a transaction every ~250us
 static uint32_t       wakeup_timer_ticks = 1000; // time between start up instructions
 static uint8_t        timer_state = 0;
 static bool           trx_rdy_for_ble;
@@ -186,7 +186,8 @@ static uint16_t       counter_size = sizeof(uint8_t);
 static uint8_t       instr_counter = 0;
 
 // because of write command bit, element 0 is 64 + addr e.g. 73 = addr 9
-static uint8_t       wakeup_instr[29][4] = {{73,0,8,0}, 
+static uint8_t       wakeup_instr[30][4] = {{73,0,8,0}, 
+                                            {104,0,8,4},
                                             {74,0,0,16},
                                             {75,0,3,232},
                                             {76,0,0,11},
@@ -472,6 +473,14 @@ static void process_rx_buffer()
       case 2:   bsp_board_led_invert(BSP_BOARD_LED_2); break;
       default:  bsp_board_led_invert(BSP_BOARD_LED_3); break;
     }
+    ble_gap_phys_t const phys =
+    {
+        .rx_phys = BLE_GAP_PHY_2MBPS,
+        .tx_phys = BLE_GAP_PHY_2MBPS,
+    };
+    sd_ble_gap_phy_update(m_conn_handle, &phys);
+    nrf_ble_gatt_data_length_set(&m_gatt, BLE_CONN_HANDLE_INVALID, 251);
+
   }
   else if (strcmp(token,"start") == 0) {
     NRF_LOG_INFO("start cmd received");
@@ -841,7 +850,7 @@ void gatt_init(void)
     conn_evt_len_ext_enabled = true;
 
     memset(&opt, 0x00, sizeof(opt));
-    opt.common_opt.conn_evt_ext.enable = conn_evt_len_ext_enabled ? 1 : 0;
+    opt.common_opt.conn_evt_ext.enable = 1;
 
     err_code = sd_ble_opt_set(BLE_COMMON_OPT_CONN_EVT_EXT, &opt);
     APP_ERROR_CHECK(err_code);
@@ -1143,7 +1152,7 @@ int main(void)
       // Was there a failed ble transfer? If so, try sending the buffer again
       if ((spi_cmd_flag == SPI_STREAM) & (ble_ready != NRF_SUCCESS))
       {
-        NRF_LOG_INFO("Failed packet send");
+        //NRF_LOG_INFO("Failed packet send");
         ble_ready = ble_nus_data_send(&m_nus, ble_tx_buf_send, &ble_packet_length, m_conn_handle);
         /*
         if (ble_ready == NRF_ERROR_INVALID_STATE || NRF_ERROR_RESOURCES)

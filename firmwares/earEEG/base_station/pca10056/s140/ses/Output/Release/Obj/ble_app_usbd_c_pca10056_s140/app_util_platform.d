@@ -1,7 +1,7 @@
 Output/Release/Obj/ble_app_usbd_c_pca10056_s140/app_util_platform.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/app_util_platform.c \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/app_util_platform.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/app_util_platform.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/app_util_platform.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52840.h \
@@ -21,12 +21,12 @@ Output/Release/Obj/ble_app_usbd_c_pca10056_s140/app_util_platform.o: \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error_soc.h \
  ../../../../../../components/softdevice/s140/headers/nrf_nvic.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/nrf_assert.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/app_error.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/sdk_errors.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/nrf_assert.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/app_error.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/nordic_common.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic/components/libraries/util/app_error_weak.h
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/nordic_common.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/util/app_error_weak.h

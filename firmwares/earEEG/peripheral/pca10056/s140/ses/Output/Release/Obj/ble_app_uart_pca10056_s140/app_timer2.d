@@ -1,12 +1,12 @@
 Output/Release/Obj/ble_app_uart_pca10056_s140/app_timer2.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/libraries/timer/app_timer2.c \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/libraries/timer/app_timer.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/timer/app_timer2.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/timer/app_timer.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/app_error.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
  ../../../../../../modules/nrfx/mdk/nrf.h \
  ../../../../../../modules/nrfx/mdk/nrf52840.h \
  ../../../../../../components/toolchain/cmsis/include/core_cm4.h \
@@ -25,7 +25,7 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/app_timer2.o: \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/libraries/util/app_util.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
@@ -62,12 +62,12 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/app_timer2.o: \
  ../../../../../../modules/nrfx/drivers/nrfx_errors.h \
  ../../../../../../components/libraries/log/nrf_log.h \
  ../../../../../../components/libraries/util/sdk_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
  ../../../../../../components/libraries/util/sdk_os.h \
  ../../../../../../components/libraries/util/app_util.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/strerror/nrf_strerror.h \
  ../../../../../../components/libraries/log/src/nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/libraries/timer/drv_rtc.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/libraries/timer/drv_rtc.h \
  ../../../../../../modules/nrfx/hal/nrf_rtc.h

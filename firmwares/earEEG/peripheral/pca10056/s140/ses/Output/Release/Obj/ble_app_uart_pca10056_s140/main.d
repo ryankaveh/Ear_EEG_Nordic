@@ -1,12 +1,12 @@
 Output/Release/Obj/ble_app_uart_pca10056_s140/main.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/firmwares/earEEG/peripheral_v6/main.c \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/firmwares/earEEG/peripheral/main.c \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/ble/ble_services/ble_nus/ble_nus.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
  ../config/sdk_config.h \
  ../../../../../../components/softdevice/s140/headers/ble.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
@@ -36,7 +36,7 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/main.o: \
  ../../../../../../components/ble/common/ble_srv_common.h \
  ../../../../../../components/softdevice/s140/headers/ble_types.h \
  ../../../../../../components/libraries/util/app_util.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../components/softdevice/s140/headers/nrf52/nrf_mbr.h \
@@ -82,7 +82,7 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/main.o: \
  ../../../../../../components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../../../../../../components/libraries/log/nrf_log_backend_interface.h \
  ../../../../../../components/libraries/memobj/nrf_memobj.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdlib.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdlib.h \
  ../../../../../../components/libraries/balloc/nrf_balloc.h \
  ../../../../../../components/libraries/util/app_util_platform.h \
  ../../../../../../components/softdevice/s140/headers/nrf_nvic.h \

@@ -1,8 +1,8 @@
 Output/Release/Obj/ble_app_uart_pca10056_s140/ble_conn_state.o: \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/ble/common/ble_conn_state.c \
- /Users/ryankaveh/OneDrive/Research/EarEEG/eareeg_nordic_v1/components/ble/common/ble_conn_state.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdbool.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdint.h \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/common/ble_conn_state.c \
+ /Users/ryankaveh/Library/CloudStorage/OneDrive-Personal/Research/EarEEG/eareeg_nordic/Ear_EEG_Nordic/components/ble/common/ble_conn_state.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdbool.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdint.h \
  ../../../../../../components/softdevice/s140/headers/ble.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
@@ -31,8 +31,8 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/ble_conn_state.o: \
  ../../../../../../components/softdevice/s140/headers/ble_gap.h \
  ../../../../../../components/libraries/atomic/nrf_atomic.h \
  ../../../../../../components/libraries/util/sdk_common.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/string.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/__crossworks.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/string.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/__crossworks.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/nordic_common.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
@@ -40,14 +40,14 @@ Output/Release/Obj/ble_app_uart_pca10056_s140/ble_conn_state.o: \
  ../../../../../../components/libraries/util/sdk_errors.h \
  ../../../../../../components/softdevice/s140/headers/nrf_error.h \
  ../../../../../../components/libraries/util/app_util.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stddef.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stddef.h \
  ../../../../../../components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../../../../../../components/softdevice/s140/headers/nrf_svc.h \
  ../../../../../../components/libraries/util/sdk_macros.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
  ../../../../../../components/libraries/atomic_flags/nrf_atflags.h \
  ../../../../../../components/libraries/util/app_error.h \
- /opt/nordic/ncs/v1.6.1/toolchain/segger_embedded_studio/include/stdio.h \
+ /Users/ryankaveh/Documents/Program\ Files/SES/include/stdio.h \
  ../../../../../../components/libraries/util/app_error_weak.h \
  ../../../../../../components/softdevice/common/nrf_sdh_ble.h \
  ../../../../../../components/libraries/util/app_util.h \

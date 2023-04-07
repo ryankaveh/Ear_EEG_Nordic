@@ -753,6 +753,19 @@ static void usbd_user_ev_handler(app_usbd_event_type_t event)
 // USB CODE END
 
 
+void conn_evt_len_ext_set(void)
+{
+    ret_code_t err_code;
+    ble_opt_t  opt;
+
+    memset(&opt, 0x00, sizeof(opt));
+    opt.common_opt.conn_evt_ext.enable = 1;
+
+    err_code = sd_ble_opt_set(BLE_COMMON_OPT_CONN_EVT_EXT, &opt);
+    APP_ERROR_CHECK(err_code);
+}
+
+
 int main(void)
 {
     ret_code_t ret;
@@ -787,6 +800,9 @@ int main(void)
     // Start execution.
     //printf("BLE UART central example started.\r\n");
     //NRF_LOG_INFO("BLE UART central example started.");
+
+    conn_evt_len_ext_set();
+
     scan_start();
 
     ret = app_usbd_power_events_enable();
